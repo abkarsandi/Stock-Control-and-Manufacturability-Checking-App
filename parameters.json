@@ -1,0 +1,8 @@
+{
+    "combo1": ["M8", "M10", "M12", "M14", "M16", "M18", "M20", "M22", "M24", "M27", "M30", "1/2", "5/8", "3/4", "7/8"],
+    "combo2": ["DIN 603","DIN 912", "DIN 931", "DIN 933", "DIN 960", "DIN 961", "DIN 7990", "DIN 6914", "DIN 6921", "DIN 6914", "ASTM A325", "(10357 T.T.F.)", "(10312 T.T.F.)", "ISO 4014", "DIN 4017", "ANSI B18.2.1","ANTIVANDAL", "STUD BOLT", "IZOLATOR", "DIA HEAD BOLT"],
+    "combo3": ["6g","6az","8g","SDG", "UNSPECIFIED"],
+    "combo4": ["NB-415", "NB-416", "NB-518", "BV-6-NEB 524", "SP-660A"],
+    "combo5": ["1.0","1.25","1.5","1.75","2.0","2.5","KABA"]
+  }
+  
